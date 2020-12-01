@@ -1,9 +1,9 @@
 {
-    "author": "Symcon GmbH",
+    "author": "Fork Hagbar235",
     "version": "1.0",
     "compatible": 1,
-    "title": "IP-Symcon WebFront",
-    "url": "http:\/\/www.ip-symcon.de\/forum\/",
-    "git": "https:\/\/github.com\/symcon\/SkinXMas.git",
+    "title": "XMasSkin",
+    "url": "",
+    "git": "https:\/\/github.com\/Hagbard235\/SkinXMas.git",
     "icons": []
 }
